@@ -5,7 +5,7 @@ background-color: aqua;
 .page{
     height: 350px;
     width:230px;
-    border: 20px solid red;
+    border: 20px solid green;
     color:red;
     text-align: center;
     /* display :flex; */
