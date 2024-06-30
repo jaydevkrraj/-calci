@@ -41,7 +41,7 @@ background-color: aqua;
 @media only screen and (max-width: 700px) {
 .page{
 height: 100%;
-    width:100%;
+    width:auto;
     border: 20px solid blue;
     margin-left: 0%;
 }
