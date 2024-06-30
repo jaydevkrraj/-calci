@@ -44,6 +44,9 @@ height: 350px;
     width:230px;
     border: 20px solid blue;
 }
-
+body{
+height: 400px;
+    width:250px;
+}
 
 }
